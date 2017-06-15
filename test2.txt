@@ -4,4 +4,8 @@ you  all right!!!-->mybranch1
 test 
 yrdy
 test
+<<<<<<< HEAD
 test
+=======
+testrrr
+>>>>>>> mybranch1
